@@ -1,5 +1,4 @@
 ---
-#  Oh My Front Matter 🤩
 title: New Post
 published: false
 description: Post
