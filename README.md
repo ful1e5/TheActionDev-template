@@ -2,6 +2,6 @@
 
 ⚡ Start writing dev.to articles with TheActionDev
 
-<!-- Don't Forget to add Your TheActionDev Badge here -->
+<!-- Don't forget the TheActionDev badge -->
 
-![TheActionDev Sync](https://github.com/ful1e5/TheActionDev-template/workflows/TheActionDev%20Sync/badge.svg)
+![TheActionDev](https://github.com/ful1e5/TheActionDev-template/workflows/TheActionDev/badge.svg)
